@@ -1,0 +1,6 @@
+Puppy likes bone and you can give it a bone!
+Yes, You can write your own plugins(bones) for puppy.
+Writing a plugin is very simple, If you know how to write a function.
+Plugins should be located next to the puppy main executable file. Puppy will find them during its startup and adds them to the Plugins menu (currently number of plugins is limited to 5).
+Plugins should export a function called "Wolf".
+For more information about the prototype of this function see the sample plugin.
